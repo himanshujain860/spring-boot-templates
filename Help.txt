@@ -1,2 +1,0 @@
-For checking swagger UI:---http://localhost:8080/swagger-ui.html
-For checking Actuators:----
